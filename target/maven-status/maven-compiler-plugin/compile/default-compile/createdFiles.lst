@@ -1,0 +1,12 @@
+com\example\demo\controller\WrapperTemperature.class
+com\example\demo\controller\WeatherController.class
+com\example\demo\model\Location.class
+com\example\demo\WeatherApplication.class
+com\example\demo\controller\LocationController.class
+com\example\demo\model\TempeartureRange.class
+com\example\demo\repository\WeatherRepo.class
+com\example\demo\repository\LocationRepo.class
+com\example\demo\dto\WeatherDto.class
+com\example\demo\model\PreferredLocation.class
+com\example\demo\model\Weather.class
+com\example\demo\model\Temperature.class
