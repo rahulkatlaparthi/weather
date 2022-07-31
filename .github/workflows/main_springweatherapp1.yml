@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'springweatherapp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2BB2DA6EB13423FBC3EA973588D87F0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A700D3DC49E412EAE25B27ABB3978F0 }}
           package: '*.jar'
